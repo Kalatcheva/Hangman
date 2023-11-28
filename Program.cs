@@ -531,7 +531,7 @@ namespace ByDesislava9G
                 if (continuee == "quit")
                 {
                     Console.Clear();
-                    Console.WriteLine("Thamk you for playing! Hangman was closed.");
+                    Console.WriteLine("Thank you for playing! Hangman was closed.");
                     return;
                 }
                 Console.Clear();
